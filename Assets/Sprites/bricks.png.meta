@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: adb943033b3f06949ab689edb6490084
+timeCreated: 1455301335
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: brick
+    21300002: left
+    21300004: right
+    21300006: 1 hit
+    21300008: 2 hits
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 128
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: brick
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 143
+        width: 128
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 41}
+        - {x: 0, y: 0}
+        - {x: 128, y: 0}
+        - {x: 128, y: 41}
+    - name: left
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 100
+        width: 64
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 41}
+        - {x: 0, y: 0}
+        - {x: 64, y: 0}
+        - {x: 64, y: 41}
+    - name: right
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 100
+        width: 64
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 41}
+        - {x: 0, y: 0}
+        - {x: 64, y: 0}
+        - {x: 64, y: 41}
+    - name: 1 hit
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 58
+        width: 128
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 41}
+        - {x: 0, y: 0}
+        - {x: 128, y: 0}
+        - {x: 128, y: 41}
+    - name: 2 hits
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 16
+        width: 128
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 41}
+        - {x: 0, y: 0}
+        - {x: 128, y: 0}
+        - {x: 128, y: 41}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
